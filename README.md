@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Contact 
 
-* [Personal Portfolio Website](mousto097.github.io)
+* [Personal LinkedIn](https://www.linkedin.com/in/mamadou-bah-9962a711b/)
