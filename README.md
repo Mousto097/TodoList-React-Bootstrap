@@ -13,26 +13,31 @@ A platform for helping organize your tasks.
 - [Contact](#contact)
 
 # What is TodoList?
- 
+
 TodoList is a powerful tool for managing tasks effectively and organizing your time.
 
 # Contributors
 
 - [Mamadou Bah](https://www.linkedin.com/in/mamadou-bah-9962a711b/)
-    * Full Stack Developer
+  - Full Stack Developer
+
 # Tech Stack
 
-* React
-* Bootstrap
+- React
+- Bootstrap
 
 # Wiki
 
 You can find more information about the project in my [Github Wiki](https://github.com/Mousto097/TodoList-React-Bootstrap/wiki).
 
+# Contact
+
+- [Personal LinkedIn](https://www.linkedin.com/in/mamadou-bah-9962a711b/)
+
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Contact 
+## Acknowledgements
 
-* [Personal LinkedIn](https://www.linkedin.com/in/mamadou-bah-9962a711b/)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
