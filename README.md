@@ -25,6 +25,7 @@ TodoList is a powerful tool for managing tasks effectively and organizing your t
 
 - React
 - Bootstrap
+- [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
 
 # Wiki
 
@@ -37,7 +38,3 @@ You can find more information about the project in my [Github Wiki](https://gith
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
