@@ -23,8 +23,8 @@ TodoList is a powerful tool for managing tasks effectively and organizing your t
 
 # Tech Stack
 
-- React
-- Bootstrap
+- ReactJS + Bootstrap
+- Axios
 - [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
 
 # Wiki
