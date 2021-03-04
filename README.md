@@ -1,4 +1,4 @@
-# TodoList
+# Listify
 
 A platform for helping organize your tasks.
 
