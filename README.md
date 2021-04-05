@@ -4,14 +4,6 @@ A platform for helping organize your tasks.
 
 ![TodoList Screenshot](WikiImages/TodoListHomepage.png?raw=true)
 
-# Table of Contents
-
-- [What is TodoList?](#what-is-todolist)
-- [Contributors](#contributors)
-- [Tech Stack](#tech-stack)
-- [License](#license)
-- [Contact](#contact)
-
 # What is TodoList?
 
 TodoList is a powerful tool for managing tasks effectively and organizing your time.
